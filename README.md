@@ -1,0 +1,1 @@
+A project inspired by fakenamegenerator.com with additional features for generating additional data to include bank accounts along with name, phone number, address, email generation all stored data in a postgres database 
